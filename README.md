@@ -25,7 +25,7 @@ __Matplotlib & Seaborn (for visualization)__
 
 ### 1️⃣ Clone the Repository:
 
-git clone https://github.com/your-username/Mashtots-OCR.git
+git clone https://github.com/GevorgGevorgyan1/Mashtots-OCR.git
 
 cd Mashtots-OCR
 

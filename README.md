@@ -1,4 +1,4 @@
-#**📌 Mashtots OCR - Armenian Handwritten Text Recognition**
+#[**📌 Mashtots OCR - Armenian Handwritten Text Recognition**]
 
 This project is an Optical Character Recognition (OCR) model designed to recognize Armenian handwritten text using the Mashtots Dataset. It leverages deep learning techniques with TensorFlow/Keras to train a model capable of accurately interpreting Armenian scripts. The project was developed and trained on Google Colab.
 

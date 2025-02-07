@@ -15,9 +15,7 @@ Matplotlib & Seaborn (for visualization)
 📜 How to Use
 1️⃣ Clone the Repository:
 
-sh
-Copy
-Edit
+
 git clone https://github.com/your-username/Mashtots-OCR.git
 cd Mashtots-OCR
 2️⃣ Run the Notebook in Google Colab
